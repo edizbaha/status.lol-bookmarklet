@@ -1,3 +1,5 @@
+<img src="./icon.png" height="128">
+
 # status.lol bookmarklet
 *A simple bookmarklet extension for status.lol.*
 
