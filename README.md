@@ -11,6 +11,6 @@ Post from anywhere in your browser using our handy bookmarklet! If you pull it u
 3. Check the box for Developer mode in the top right
 4. Press the __Load Unpacked__ button and select the folder with the code
 
-Done! You can start using the extension now.
+**Done! You can start using the extension now.**
 
 ***Note:*** When you install the extension, a page will open asking you to enter your omg.lol address name. If you want to change it later, you can change it from the extension options.
