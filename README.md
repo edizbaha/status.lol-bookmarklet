@@ -5,6 +5,8 @@
 
 Post from anywhere in your browser using our handy bookmarklet! If you pull it up when you’re on a web page, it’ll include a link to that page in Markdown (but you can edit your status to be whatever you’d like). 
 
+[![Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb)
+
 ## Requirements
 To use this extension, will you need:
 * **omg.lol** account
