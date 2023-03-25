@@ -17,6 +17,10 @@ To use this extension, will you need:
 1. Open the [extension page](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb) in Chrome Web Store.
 2. Press "Add to Chrome" button
 
+## Installation from Firefox Add-ons
+1. Open the [extension page](https://addons.mozilla.org/addon/status-lol-bookmarklet) in Firefox Add-ons.
+2. Press "Install it" button
+
 ## Manual Installation
 1. Clone this repo to your machine
 2. Open [chrome://extensions/](chrome://extensions/) in your browser
