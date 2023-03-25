@@ -11,7 +11,7 @@ Post from anywhere in your browser using our handy bookmarklet! If you pull it u
 ## Requirements
 To use this extension, will you need:
 * **omg.lol** account
-* Chrome or Brave browser
+* Chromium based browser
  
 ## Installation from Chrome Web Store
 1. Open the [extension page](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb) in Chrome Web Store.
