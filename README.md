@@ -5,7 +5,18 @@
 
 Post from anywhere in your browser using our handy bookmarklet! If you pull it up when you’re on a web page, it’ll include a link to that page in Markdown (but you can edit your status to be whatever you’d like). 
 
-**To install it,**
+[![Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb)
+
+## Requirements
+To use this extension, will you need:
+* **omg.lol** account
+* Chrome or Brave browser
+ 
+## Installation from Chrome Web Store
+1. Open the [extension page](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb) in Chrome Web Store.
+2. Press "Add to Chrome" button
+
+## Manual Installation
 1. Clone this repo to your machine
 2. Open [chrome://extensions/](chrome://extensions/) in your browser
 3. Check the box for Developer mode in the top right
