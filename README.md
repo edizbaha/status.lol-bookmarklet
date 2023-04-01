@@ -7,19 +7,37 @@ Post from anywhere in your browser using our handy bookmarklet! If you pull it u
 
 [![Chrome Web Store](https://raw.githubusercontent.com/edizbaha/status.lol-bookmarklet/main/assets/chrome.png)](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb)
 [![Firefox Add-ons](https://raw.githubusercontent.com/edizbaha/status.lol-bookmarklet/main/assets/firefox.png)](https://addons.mozilla.org/addon/status-lol-bookmarklet)
+[![Opera Add-ons](https://raw.githubusercontent.com/edizbaha/status.lol-bookmarklet/main/assets/opera.png)](https://addons.opera.com/extensions/details/statuslol-bookmarklet)
 
 ## Requirements
 To use this extension, will you need:
 * **omg.lol** account
 * Chromium based browser
- 
-## Installation from Chrome Web Store
-1. Open the [extension page](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb) in Chrome Web Store.
-2. Press "Add to Chrome" button
 
-## Installation from Firefox Add-ons
-1. Open the [extension page](https://addons.mozilla.org/addon/status-lol-bookmarklet) in Firefox Add-ons.
-2. Press "Install it" button
+## Automatic Installation
+<details>
+<summary><small>Installation from Chrome Web Store</small></summary><p>
+
+- Open the [extension page](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb) in Chrome Web Store.
+- Press "Add to Chrome" button.
+
+</details>
+
+<details>
+<summary><small>Installation from Firefox Add-ons</small></summary><p>
+
+- Open the [extension page](https://addons.mozilla.org/addon/status-lol-bookmarklet) in Firefox Add-ons.
+- Press "Install it" button.
+
+</details>
+
+<details>
+<summary><small>Installation from Opera Add-ons</small></summary><p>
+
+- Open the [extension page](https://addons.opera.com/extensions/details/statuslol-bookmarklet) in Opera Add-ons.
+- Press "Install it" button.
+
+</details>
 
 ## Manual Installation
 1. Clone this repo to your machine
