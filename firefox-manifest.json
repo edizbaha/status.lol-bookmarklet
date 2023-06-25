@@ -1,33 +1,39 @@
 {
-  "manifest_version": 3,
-  "name": "status.lol Bookmarklet",
-  "version": "1.1",
-  "description": "A simple bookmarklet extension for status.lol.",
-  "icons": {
-    "512": "icon.png"
-  },
-  "host_permissions": [
-    "https://home.omg.lol/*"
-  ],
-  "permissions": [
-    "activeTab",
-    "storage",
-    "contextMenus"
-  ],
-  "background": {
-      "scripts": ["background.js"]
-  },
-  "action": {
-    "default_icon": "icon.png",
-    "default_title": "status.lol Bookmarklet"
-  },
-  "options_ui": {
-    "page": "options.html",
-    "open_in_tab": true
-  },
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "statuslol@omg.lol"
+    "manifest_version": 3,
+    "name": "status.lol Bookmarklet",
+    "version": "1.2",
+    "description": "A simple bookmarklet extension for status.lol.",
+    "icons":
+    {
+        "512": "icon.png"
+    },
+    "host_permissions": [
+        "https://home.omg.lol/*"
+    ],
+    "permissions": [
+        "activeTab",
+        "storage",
+        "contextMenus"
+    ],
+    "background":
+    {
+        "scripts": ["background.js"]
+    },
+    "action":
+    {
+        "default_icon": "icon.png",
+        "default_title": "status.lol Bookmarklet"
+    },
+    "options_ui":
+    {
+        "page": "options.html",
+        "open_in_tab": true
+    },
+    "browser_specific_settings":
+    {
+        "gecko":
+        {
+            "id": "statuslol@omg.lol"
+        }
     }
-  }
 }
