@@ -1,7 +1,9 @@
 <img src="./icon.png" height="128">
 
 # status.lol bookmarklet
-*A simple bookmarklet extension for status.lol.*
+> ***Version: 1.3***
+
+*A simple bookmarklet extension for [status.lol](https://status.lol).*
 
 Post from anywhere in your browser using our handy bookmarklet! If you pull it up when you’re on a web page, it’ll include a link to that page in Markdown (but you can edit your status to be whatever you’d like). 
 
@@ -11,40 +13,40 @@ Post from anywhere in your browser using our handy bookmarklet! If you pull it u
 
 ## Requirements
 To use this extension, will you need:
-* **omg.lol** account
-* Chromium based browser
+* **[omg.lol](https://home.omg.lol)** account
+* **Chromium** based browser
 
 ## Automatic Installation
 <details>
-<summary><small>Installation from Chrome Web Store</small></summary><p>
+<summary><small>Installation from <b>Chrome Web Store</b></small></summary><p>
 
 - Open the [extension page](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb) in Chrome Web Store.
-- Press "Add to Chrome" button.
+- Press **"Add to Chrome"** button.
 
 </details>
 
 <details>
-<summary><small>Installation from Firefox Add-ons</small></summary><p>
+<summary><small>Installation from <b>Firefox Add-ons</b></small></summary><p>
 
 - Open the [extension page](https://addons.mozilla.org/addon/status-lol-bookmarklet) in Firefox Add-ons.
-- Press "Install it" button.
+- Press **"Install it"** button.
 
 </details>
 
 <details>
-<summary><small>Installation from Opera Add-ons</small></summary><p>
+<summary><small>Installation from <b>Opera Add-ons</b></small></summary><p>
 
 - Open the [extension page](https://addons.opera.com/extensions/details/statuslol-bookmarklet) in Opera Add-ons.
-- Press "Install it" button.
+- Press **"Install it"** button.
 
 </details>
 
 ## Manual Installation
 1. Clone this repo to your machine
-2. Open [chrome://extensions/](chrome://extensions/) in your browser
-3. Check the box for Developer mode in the top right
-4. Press the __Load Unpacked__ button and select the folder with the code
+2. Open ```chrome://extensions``` in your browser
+3. Check the box for **Developer mode** in the top right
+4. Press the **Load Unpacked** button and select the folder with the code
 
 **Done! You can start using the extension now.**
 
-***Note:*** When you install the extension, a page will open asking you to enter your omg.lol address name. If you want to change it later, you can change it from the extension options.
+***Note:*** When you install the extension, a page will open asking you to enter your **[omg.lol](https://home.omg.lol) address name**. If you want to change it later, you can change it from the extension options.
