@@ -54,8 +54,3 @@ chrome.action.onClicked.addListener((tab) => {
         });
     });
 });
-
-// Open the extension's options page when the extension is installed
-chrome.runtime.onInstalled.addListener(() => {
-    chrome.runtime.openOptionsPage();
-});
