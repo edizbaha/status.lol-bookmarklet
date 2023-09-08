@@ -7,7 +7,7 @@
 
 Post from anywhere in your browser using our handy bookmarklet! If you pull it up when you’re on a web page, it’ll include a link to that page in Markdown (but you can edit your status to be whatever you’d like). 
 
-[![Chrome Web Store](https://raw.githubusercontent.com/edizbaha/status.lol-bookmarklet/main/assets/chrome.png)](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb)
+[![Chrome Web Store](https://raw.githubusercontent.com/edizbaha/status.lol-bookmarklet/main/assets/chrome.png)](https://chromewebstore.google.com/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb)
 [![Firefox Add-ons](https://raw.githubusercontent.com/edizbaha/status.lol-bookmarklet/main/assets/firefox.png)](https://addons.mozilla.org/addon/status-lol-bookmarklet)
 [![Opera Add-ons](https://raw.githubusercontent.com/edizbaha/status.lol-bookmarklet/main/assets/opera.png)](https://addons.opera.com/extensions/details/statuslol-bookmarklet)
 
@@ -20,7 +20,7 @@ To use this extension, will you need:
 <details>
 <summary><small>Installation from <b>Chrome Web Store</b></small></summary><p>
 
-- Open the [extension page](https://chrome.google.com/webstore/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb) in Chrome Web Store.
+- Open the [extension page](https://chromewebstore.google.com/detail/statuslol-bookmarklet/hgoghgphedokmpgipdgbckpjnicdmflb) in Chrome Web Store.
 - Press **"Add to Chrome"** button.
 
 </details>
