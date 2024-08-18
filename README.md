@@ -1,7 +1,7 @@
 <img src="./icon.png" height="128">
 
 # status.lol bookmarklet
-> ***Version: 1.3***
+> ***Version: 2.1***
 
 *A simple bookmarklet extension for [status.lol](https://status.lol).*
 

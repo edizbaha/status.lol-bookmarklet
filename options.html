@@ -1,42 +1,51 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>status.lol Bookmarklet - Options</title>
-    <link rel="stylesheet" href="https://cdn.cache.lol/css/style.css?v=2023-01-29">
-  </head>
-  <style>
-    .logotype {
-      font-family: 'VC Honey Black Banner';
-    }
-
-    body {
-      background: var(--gray-8) !important;
-      color: var(--gray-1) !important;
-    }
-
-    main .container,
-    main .box {
-      background: var(--gray-9);
-    }
-  </style>
-  <main>
-    <div style="margin-bottom: .5em; font-size: 2em;" class="logotype">
-      <span class="blue-4-fg">status</span><span class="blue-7-fg">.</span><span class="blue-4-fg">lol Bookmarklet</span>
-      <img src="https://static.omg.lol/img/blue-prami.svg" style="width: 1.3em; margin-left: .2em; margin-bottom: -.3em;" alt="Prami">
+<head>
+  <title>status.lol Bookmarklet - Options</title>
+  <link rel="stylesheet" href="https://cdn.cache.lol/css/style.css?v=2023-01-29">
+</head>
+<style>
+  .logotype {
+    font-family: 'VC Honey Black Banner';
+  }
+  body {
+    background: var(--gray-8) !important;
+    color: var(--gray-1) !important;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  main .container,
+  main .box {
+    background: var(--gray-9);
+  }
+</style>
+<main>
+  <div style="margin-bottom: .5em; font-size: 2em;" class="logotype">
+    <span class="blue-4-fg">status</span><span class="blue-7-fg">.</span><span class="blue-4-fg">lol Bookmarklet</span>
+    <img src="https://static.omg.lol/img/blue-prami.svg" style="width: 1.3em; margin-left: .2em; margin-bottom: -.3em;" alt="Prami">
+  </div>
+  <div class="flex">
+    <div class="box basis" style="--basis: 20em;">
+      <form>
+        <p>
+          <label for="address">omg.lol Address</label>
+          <input name="address" id="address" type="text" placeholder="foobar" spellcheck="false" autocapitalize="none" autocomplete="off">
+        </p>
+        <p>
+          <label for="emoji">Default Emoji</label>
+          <input name="emoji" id="emoji" type="text" placeholder="&#x1F440;" spellcheck="false" autocapitalize="none" autocomplete="off">
+        </p>
+        <button type="button" class="blue-7-bg white-fg" id="saveButton">
+          <i class="fa-solid fa-floppy-disk"></i> Save
+        </button>
+      </form>
     </div>
-    <div class="flex">
-      <div class="box basis" style="--basis: 20em;">
-        <form>
-          <p>
-            <label for="address">omg.lol Address</label>
-            <input name="address" id="address" type="text" placeholder="foobar" spellcheck="false" autocapitalize="none" autocomplete="off">
-          </p>
-          <button class="blue-7-bg white-fg" id="saveButton">
-            <i class="fa-solid fa-floppy-disk"></i> Save </button>
-        </form>
-      </div>
-    </div>
-  </main>
-  <script src="options.js"></script>
-  </body>
+  </div>
+</main>
+<script src="options.js"></script>
+</body>
 </html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Update Available!</title>
+    <link rel="stylesheet" href="https://cdn.cache.lol/css/style.css?v=2023-01-29">
+    <style>
+    .logotype {
+        font-family: 'VC Honey Black Banner';
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    p {
+        margin-top: -1em;
+    }
+
+    body {
+        background: var(--gray-8) !important;
+        color: var(--gray-1) !important;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .container {
+        background: var(--gray-9);
+        padding: 2em;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        max-width: 600px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .changelog h2 {
+        margin: 0 0 1em 0;
+        font-size: 1.5em;
+    }
+
+    .changelog p {
+        margin: 0;
+        margin-top: -1em;
+        margin-bottom: 2em;
+    }
+
+    .update-button {
+        display: block;
+        margin-top: 2em;
+        padding: 0.5em 1em;
+        font-size: 1em;
+        color: var(--gray-1);
+        background-color: var(--blue-7);
+        border: none;
+        border-radius: .75em;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .update-button i {
+        margin-right: 0.5em;
+    }
+
+    .update-button:hover {
+        background-color: var(--blue-6);
+    }
+
+    #version-content {
+        display: inline-flex;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div style="margin-bottom: 0.5em; font-size: 2em;" class="logotype">
+            <span class="blue-4-fg">status</span><span class="blue-7-fg">.</span><span class="blue-4-fg">lol Bookmarklet</span>
+            <img src="https://static.omg.lol/img/blue-prami.svg" style="width: 1.3em; margin-left: 0.2em; margin-bottom: -0.3em;" alt="Prami">
+        </div>
+        <br>
+        <p>v<span id="version-content"></span> of the status.lol bookmarklet extension is available. Please update to the latest version.</p>
+        <div class="changelog">
+            <h2><i class="fa-duotone fa-solid fa-sparkles" style="color: var(--yellow-3);"></i> What's New:</h2>
+            <p id="changelog-content"></p>
+        </div>
+        <button id="update-button" class="update-button">
+            <i class="fa-solid fa-heart"></i> Update Now
+        </button>
+    </div>
+    <script src="update.js"></script>
+</body>
+
+</html>
